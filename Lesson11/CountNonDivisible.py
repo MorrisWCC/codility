@@ -1,4 +1,4 @@
-idea from https://codesays.com/2014/solution-to-count-non-divisible-by-codility/
+#idea from https://codesays.com/2014/solution-to-count-non-divisible-by-codility/
 
 import math
 def solution(A):
