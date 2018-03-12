@@ -10,7 +10,7 @@ def test( blocks, largest_num, input_list, mid) :
         if _sum > mid :
             _cnt += 1
             _sum = num
-    else:
+    else: 
         if _cnt <= blocks :
             return True
         else :
