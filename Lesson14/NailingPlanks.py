@@ -7,7 +7,7 @@
 def test( A, B, C, mid ):
     nails = [0] * ( 2 * ( len(C) + 1) )
 
-    for idx in range ( 0, mid ) :
+    for idx in range ( 0, mid ) : 
         nails[C[idx]] += 1
         
     for idx in range ( 1, len(nails) ) :
